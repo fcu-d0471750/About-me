@@ -41,14 +41,14 @@
 
 ## 學生時期作品
 
-* 藥妝小偵探 - https://github.com/fcu-d0441292/yao-chuang-hsiao-chen-tan
-* 遊戲庫存資料庫
-* Loreanzo的日記本(大學畢業專題) - 
+* (Android)藥妝小偵探 - https://github.com/fcu-d0441292/yao-chuang-hsiao-chen-tan
+* (MariaDB)遊戲庫存資料庫
+* (Unity/C#)Loreanzo的日記本(大學畢業專題) - 
 
 ## 作品
 
-* 不動產大師 - 
-* Constellation Master - 
+* (Unity/C#)不動產大師 - 
+* (Unity/C#)Constellation Master - 
 
 ## 自我介紹
 
