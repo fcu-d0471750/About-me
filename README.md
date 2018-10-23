@@ -1,10 +1,10 @@
-# 田安得 (Andrew Tien)
+# 曾弘軒 (ZENG, HONG-XUAN)
 
-* Birthday : 06/27/1992
-* Education : 國立高雄大學-資訊管理學系
-* Location : 高雄市 (Koahsiung City)
-* E-Mail : rockitchen80@gmail.com
-* Mobile : 0931-289005
+* Birthday : 
+* Education : 逢甲大學 - 資訊工程系
+* Location : 台中市 (Taichung City)
+* E-Mail : 
+* Mobile : 
 
 ## 技能
 
