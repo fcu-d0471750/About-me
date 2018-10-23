@@ -15,13 +15,14 @@
  
 ### Java/Android
 
-* 主要用於寫Android相關軟體
+* 主要用於寫Android相關軟體。
+* 主要為功能型APP。
 * 平時會將寫好的C/C++的程式轉換成Java版本。
 
 ### C#/Unity
 
 * 開發過的遊戲和其它大型專案都透過Unity開發。
-* 主要開發2D遊戲。
+* 主要開發2D PC遊戲、Android遊戲。
 
 ### ios
 * 
@@ -40,7 +41,7 @@
 
 ## 學生時期作品
 
-* 藥妝小偵探 - 
+* 藥妝小偵探 - https://github.com/fcu-d0441292/yao-chuang-hsiao-chen-tan
 * 遊戲庫存資料庫
 * Loreanzo的日記本(大學畢業專題) - 
 
