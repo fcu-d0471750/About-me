@@ -23,6 +23,9 @@
 * 開發過的遊戲和其它大型專案都透過Unity開發。
 * 主要開發2D遊戲。
 
+### ios
+* 
+* 
 ### Html
 
 * 
@@ -39,7 +42,7 @@
 
 * 藥妝小偵探 - 
 * 遊戲庫存資料庫
-* Loreanzo的日記本(大學畢業專題) - https://github.com/jwc911037/PeckerWriter
+* Loreanzo的日記本(大學畢業專題) - 
 
 ## 作品
 
