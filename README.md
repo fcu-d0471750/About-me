@@ -50,7 +50,7 @@
 
 * (Unity/C#/Windows版)不動產大師 -
 * (Unity/C#/Android版)不動產大師 -
-* (Unity/C#)Constellation Master - 
+* (Unity/C#)Constellation Master -  
 
 ## 自我介紹
 
