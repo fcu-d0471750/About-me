@@ -4,7 +4,7 @@
 * Education : 逢甲大學 - 資訊工程系
 * Location : 台中市 (Taichung City)
 * E-Mail : 
-* Mobile :   
+* Mobile : 
  
 ## 技能
 
