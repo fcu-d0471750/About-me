@@ -1,6 +1,6 @@
 # 曾弘軒 (ZENG, HONG-XUAN)
 
-* Birthday : 
+* Birthday :  
 * Education : 逢甲大學 - 資訊工程系
 * Location : 台中市 (Taichung City)
 * E-Mail : 
