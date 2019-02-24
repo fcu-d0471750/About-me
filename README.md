@@ -53,7 +53,7 @@
 
 * (Android)藥妝小偵探 - https://github.com/fcu-d0441292/yao-chuang-hsiao-chen-tan
 * (MariaDB)遊戲庫存資料庫
-* (C/Java)生物資訊字串比較  
+* (C/Java)生物資訊字串比較  - https://github.com/fcu-d0471750/C_Language/blob/master/C%2B%2B/Sequence_Alignment.cpp
 * (Unity/C#)Loreanzo的日記本(大學畢業專題) -  https://rzkilaxllyzpdctseqxfog-on.drv.tw/www/LorenzoDiary/
 
 ## 作品
