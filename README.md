@@ -1,13 +1,24 @@
 # 曾弘軒 (ZENG, HONG-XUAN)
-
-* Birthday :  
+ 
 * Education : 逢甲大學 - 資訊工程系
 * Location : 台中市 (Taichung City)
 * E-Mail : 
-* Mobile :   
   
 ## 技能  
  
+### C#/Unity
+
+* 開發過的遊戲和其它大型專案都透過Unity開發。
+* 主要開發2D PC遊戲、Android遊戲。
+</br>
+>>>>☆ 不動產大師 –  透過四位數計算，優化大量數字運算。
+</br>
+>>>>☆ Sudoku –  基於9X9陣列，優化檢查每格數字次數。
+
+### Python
+*  
+* 
+
 ### C/C++  
 
 * 在學期間的主要使用語言。
@@ -25,18 +36,10 @@
 </br>
 >>>>☆ M&C Detective – FireBase輕量化搜尋。
 
-### C#/Unity
-
-* 開發過的遊戲和其它大型專案都透過Unity開發。
-* 主要開發2D PC遊戲、Android遊戲。
-</br>
->>>>☆ 不動產大師 –  透過四位數計算，優化大量數字運算。
-</br>
->>>>☆ Sudoku –  基於9X9陣列，優化檢查每格數字次數。
-
 ### ios
 *  
 *  
+
 ### Html
 
 *  
